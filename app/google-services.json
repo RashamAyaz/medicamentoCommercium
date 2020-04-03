@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344963152481",
+    "firebase_url": "https://medicammento-commercium.firebaseio.com",
+    "project_id": "medicammento-commercium",
+    "storage_bucket": "medicammento-commercium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344963152481:android:f3121c849680c727cc0820",
+        "android_client_info": {
+          "package_name": "com.example.medicamentocommercium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344963152481-pj21t9vjoe11pcrhi5gu47gpq2udh4m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicamentocommercium",
+            "certificate_hash": "fda8dbb6652f4cf851a4105a79655b37c32432b1"
+          }
+        },
+        {
+          "client_id": "344963152481-53ue1gm6677km8fp8cka3kfq0oiav6k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW7zRHdL_uNWU4WWl4cypZZhDUUUqA6RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344963152481-53ue1gm6677km8fp8cka3kfq0oiav6k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

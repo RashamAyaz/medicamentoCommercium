@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">Medicamento Commerciumn</string>
+    <string name="working">working</string>
+    <string name="tvac_studio">tvac_studio</string>
+    <string name="generate_otp">generate_otp</string>
+    <string name="your_phone_number">your_phone_no</string>
+    <string name="_92">_92</string>
+    <string name="please_enter_your_country_code_n_and_phone_number_for_verification">please_enter_your_country_code_n_and_phone_number_for_verification</string>
+    <string name="verify_your_number">verify_your_number</string>
+    <string name="medi">medi</string>
+    <string name="me">me</string>
+    <string name="welcome_user">welcome_user</string>
+    <string name="logout">logout</string>
+    <string name="verify_otp">verify_otp</string>
+    <string name="enter_otp">enter</string>
+    <string name="we_have_sent_you_an_otp_n_for_phone_number_verification">we_have_sent_you_an_otp_n_for_phone_number_verification</string>
+    <string name="todo1">medi1</string>
+    <string name="string_enter_otp">-@string/enter_otp</string>
+    <string name="medicammento">medicammento</string>
+    <string name="commercium">commercium</string>
+    <string name="logo1111">logoforStart</string>
+</resources>
